@@ -1,0 +1,98 @@
+body {
+    background-color:#363A3F;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+a.liv:hover{
+    text-decoration: underline;
+}
+
+header {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+p.lol {
+    float:none;   
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background: #4d60ea;
+    padding: 25px;
+    margin: 0;
+    font-weight: bold;
+    border: solid #2839a3;
+    text-align: center;
+}
+div.liv img{
+    border-radius: 10px;
+    margin: 5px;
+}
+div.liv img:hover{
+    box-shadow: none;
+    border: 7px solid #4d60ea;
+    border-radius: 20px;
+}
+div.liv{
+    text-align: center;
+    color: white;
+}
+footer div.fix{
+    text-align: center;
+    padding: 15px;
+    background: black;
+}
+footer div.fix a{
+    padding: 5px;
+    color: white;
+
+
+}
+div.fix a:hover{
+    text-decoration: underline;
+}
+div.esc{
+    text-align: center;
+}
+div.esc a{
+    font-size: 50px;
+    color: white;
+    background: #4d60ea;
+    box-shadow: 0 10px 0 #2839a3;    
+    padding: 7px;
+    border-radius: 10px;
+}
+div.esc a:hover{
+    box-shadow: 0 5px 0 #2839a3;
+    padding: 5px;
+}
+div.esc a:active{
+    background: #2839a3;
+}
+h2{
+    font-size: 40px;
+}
+div.pepe img{
+    position: absolute;
+    border: 5px #2839a3 solid;
+    text-align: right;
+    width: 105px;
+}
+footer p{
+    background: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+
+}
