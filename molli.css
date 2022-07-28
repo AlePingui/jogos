@@ -1,0 +1,29 @@
+.Modal {
+    position: fixed;
+    top: 0;
+    background-color: #0008;
+    color: #fff;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Modal h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.Modal a {
+    cursor: pointer;
+    color: #48e;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.Modal p {
+    position: absolute;
+    bottom: 20px;
+}
